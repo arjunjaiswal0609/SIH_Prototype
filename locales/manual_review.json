@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Coverage currently spans India (TKDL, CGPDTM, Ayush, NBA) and the principal international systems (WIPO, EPO, USPTO, Nagoya Protocol). National-phase detail for other jurisdictions is summarised from WIPO aggregates and may lag local amendments.",
+    "filepath": "src/routes/sources.tsx",
+    "line": 127,
+    "reason": "Domain/scientific term",
+    "type": "simple"
+  },
+  {
+    "text": "{{var0}}TKDL records",
+    "filepath": "src/routes/knowledge.tsx",
+    "line": 144,
+    "reason": "Domain/scientific term",
+    "type": "nested"
+  },
+  {
+    "text": "Withania somnifera",
+    "filepath": "src/routes/index.tsx",
+    "line": 115,
+    "reason": "Domain/scientific term",
+    "type": "simple"
+  },
+  {
+    "text": "Patent screening, TKDL cross-referencing, fee estimation, and jurisdictional orientation remain automated and citation-grounded. Escalation is additive — it never replaces the transparent evidence layer.",
+    "filepath": "src/routes/expert.tsx",
+    "line": 205,
+    "reason": "Domain/scientific term",
+    "type": "simple"
+  },
+  {
+    "text": "Botanical name, e.g. Withania somnifera",
+    "filepath": "src/routes/abs.tsx",
+    "line": 117,
+    "reason": "Domain/scientific term",
+    "type": "attribute"
+  },
+  {
+    "text": "TKDL reference set",
+    "filepath": "src/components/ip/app-shell.tsx",
+    "line": 223,
+    "reason": "Domain/scientific term",
+    "type": "simple"
+  }
+]
